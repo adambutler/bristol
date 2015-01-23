@@ -5,7 +5,7 @@ The NodeSchool chapter for Bristol, UK.
 
 ## Contact ##
 
-*   Gitter chat: [![Gitter chat](https://badges.gitter.im/nodeschool/bristol.png)](https://gitter.im/nodeschool/bristol)
+[![Gitter chat](https://badges.gitter.im/nodeschool/bristol.png)](https://gitter.im/adambutler/nodeschool-bristol)
 
 ## Events ##
 
